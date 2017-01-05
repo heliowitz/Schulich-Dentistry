@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/calendar-today.png</file>
+        <file>images/calendar.png</file>
+        <file>images/filter-outline.png</file>
+        <file>images/filter.png</file>
+        <file>images/icon32.ico</file>
+        <file>images/logo.png</file>
+        <file>images/minus-circle-outline.png</file>
+        <file>images/Pdf.svg</file>
+        <file>images/plus-circle-outline.png</file>
+        <file>images/plus.png</file>
+        <file>images/print_button.png</file>
+        <file>images/printer.png</file>
+        <file>images/format-list-bulleted.png</file>
+        <file>images/sort.png</file>
+        <file>images/pencil-circle-outline.png</file>
+        <file>images/Galaxy logo.png</file>
+    </qresource>
+</RCC>
